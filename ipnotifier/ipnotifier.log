@@ -1,0 +1,30 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 11
+INFO:root:No email is sent
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 11
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 11
+ERROR:root:Something went wrong...SMTP AUTH extension not supported by server.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 12
+ERROR:root:Something went wrong...SMTP AUTH extension not supported by server.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 11
+ERROR:root:Something went wrong...getaddrinfo() argument 1 must be string or None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 11
+ERROR:root:Something went wrong...getaddrinfo() argument 1 must be string or None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 12
+ERROR:root:Something went wrong...getaddrinfo() argument 1 must be string or None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 12
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 11
+ERROR:root:Something went wrong...Connection unexpectedly closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 11
+ERROR:root:Something went wrong...Connection unexpectedly closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ipify.org:443
+DEBUG:urllib3.connectionpool:https://api.ipify.org:443 "GET / HTTP/1.1" 200 12
